@@ -14,7 +14,7 @@ a dht crawler, include crawler and web
 * 2.tomcat 8
 * 3.mysql 5.1
 * 4.redis
-* 5.JDK 8
+* 5.JDK 1.8
 
 # java jdk怎么装？tomcat怎么装？mysql？redis？谷歌去。
 
